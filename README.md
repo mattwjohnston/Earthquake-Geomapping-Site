@@ -1,7 +1,8 @@
-# Unit 17 | Assignment - Visualizing Data with Leaflet
+## Unit 17 | Assignment - Visualizing Data with Leaflet
 
-Geomapped all earthquakes above 2.5 magnitude within the last month.
-Used Leaflet, D3, Mapbox/OpenStreetMaps, and the USGS live earthquake feed. JS, HTML, and CSS.
+*Geomapped all earthquakes above 2.5 magnitude within the last month.
+
+*Used Leaflet, D3, Mapbox/OpenStreetMaps, and the USGS live earthquake feed. JS, HTML, and CSS.
 
 
 ## Background
